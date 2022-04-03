@@ -1,1 +1,1 @@
-# hephaestus
+# Hephaestus - Home Automation Assistant
